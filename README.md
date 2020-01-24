@@ -6,8 +6,7 @@ A couple really simple VFXgraphs in URP on 2019.3
 Screenshot on Play: 
 ![alt text](VFXGraphExperiments.png "Smoke and Bubbles in project")
 
-###Reference Tutorials:
-(unofficial resources)
+##References
 
 - Brackeys, FIRE AND SMOKE with Unity VFX Graph! (HDRP) 
     - https://www.youtube.com/watch?v=R6D1b7zZHHA
